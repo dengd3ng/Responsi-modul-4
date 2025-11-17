@@ -1,4 +1,4 @@
-# Denzi PWA - Clean React + Vite (dibuat ulang dari awal)
+# Responsi Modul 4 - Clean React + Vite 
 
 Ini adalah versi proyek yang dibuat ulang dari awal menggunakan React + Vite dan dilengkapi PWA support.
 
