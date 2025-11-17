@@ -1,0 +1,11 @@
+{
+  "name": "Denzi PWA - Contoh",
+  "short_name": "DenziPWA",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2b6cb0",
+  "icons": [
+    { "src": "/icons/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
